@@ -10,7 +10,7 @@
 
 - 🎓 &nbsp; full Stack developer in Digital House.
 
-- 🌱 &nbsp; Learning about React and in the future learn phyton, vue.js.
+- 🌱 &nbsp; Learning about React and in the future learn phyton, vue.js, and more.
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
@@ -36,7 +36,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; Phyton | vue | Angular
+- 🔧 &nbsp; Phyton | vue | Angular | Solidity
 
 <hr>
 
